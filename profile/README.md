@@ -1,5 +1,7 @@
 [license]: https://github.com/Kamigami-no-Tanjou/.github/blob/main/LICENSE
 
+[ ![license-shield][] ][license]
+
 # Kamigami no Tanjou
 A project about a fantasy world.
 
