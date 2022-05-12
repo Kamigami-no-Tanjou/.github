@@ -1,6 +1,12 @@
+
+[maven-central]: https://img.shields.io/maven-central/v/net.dv8tion/JDA?color=blue
+[license-shield]: https://img.shields.io/badge/License-MIT-white.svg
+[discord-shield]: https://discord.com/api/guilds/861918152669396992/widget.png
 [license]: https://github.com/Kamigami-no-Tanjou/.github/blob/main/LICENSE
+[discord-invite]: https://discord.gg/g6XuGQTKZd
 
 [ ![license-shield][] ][license]
+[ ![discord-shield][] ][discord-invite]
 
 # Kamigami no Tanjou
 A project about a fantasy world.
